@@ -1,0 +1,77 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Kurchi Madathapetti Full Video Song",
+      "imageUrl": "https://i.ytimg.com/vi/gh3FyLT7WVg/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/gh3FyLT7WVg"
+    },
+    {
+      "id": "2",
+      "caption": "King of Kotha",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzI3ZGEzM2EtNmU3ZC00YTE2LTg4ZDctMjcxNjliOTBlYjkyXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg",
+      "embedLink": "https://www.youtube.com/embed/VzT2xurZrbI"
+    },
+    {
+      "id": "3",
+      "caption": "LEO",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTAzYzVlYmItMWI1Yi00ZGRjLTkwYWUtYWM3ZDIwOGFiODk4XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_.jpg",
+      "embedLink": "https://www.youtube.com/embed/3wDiqlTNlfQ"
+    }
+  ],
+  "history": [
+    {
+      "caption": "LEO",
+      "url": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+      "timeStamp": "13/03/2024, 12:26:04",
+      "id": 1
+    },
+    {
+      "caption": "Kurchi Madathapetti Full Video Song",
+      "url": "https://www.youtube.com/embed/gh3FyLT7WVg",
+      "timeStamp": "15/03/2024, 11:58:10",
+      "id": 2
+    },
+    {
+      "caption": "King of Kotha",
+      "url": "https://www.youtube.com/embed/VzT2xurZrbI",
+      "timeStamp": "15/03/2024, 12:27:07",
+      "id": 3
+    },
+    {
+      "caption": "King of Kotha",
+      "url": "https://www.youtube.com/embed/VzT2xurZrbI",
+      "timeStamp": "15/03/2024, 12:27:10",
+      "id": 4
+    },
+    {
+      "caption": "King of Kotha",
+      "url": "https://www.youtube.com/embed/VzT2xurZrbI",
+      "timeStamp": "15/03/2024, 12:28:03",
+      "id": 5
+    },
+    {
+      "caption": "King of Kotha",
+      "url": "https://www.youtube.com/embed/VzT2xurZrbI",
+      "timeStamp": "15/03/2024, 12:28:11",
+      "id": 6
+    }
+  ],
+  "category": [
+    {
+      "category": "Hindi Songs",
+      "allVideos": [],
+      "id": 2
+    },
+    {
+      "category": "malayalam",
+      "allVideos": [],
+      "id": 3
+    },
+    {
+      "category": "tamil",
+      "allVideos": [],
+      "id": 4
+    }
+  ]
+}
